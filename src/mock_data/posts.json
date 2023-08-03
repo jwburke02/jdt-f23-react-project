@@ -1,0 +1,62 @@
+[
+    {
+        "title": "post title",
+        "author": "post author",
+        "date_posted": "00-00-0000",
+        "body": "This is the body of the post.",
+        "likes": 0,
+        "dislikes": 0,
+        "comments": [
+            {
+                "author": "comment author",
+                "body": "comment body",
+                "date_posted": "00-00-0000"
+            }
+        ]
+    },
+    {
+        "title": "post title",
+        "author": "post author",
+        "date_posted": "00-00-0000",
+        "body": "This is the body of the post.",
+        "likes": 0,
+        "dislikes": 0,
+        "comments": [
+            {
+                "author": "comment author",
+                "body": "comment body",
+                "date_posted": "00-00-0000"
+            }
+        ]
+    },
+    {
+        "title": "post title",
+        "author": "post author",
+        "date_posted": "00-00-0000",
+        "body": "This is the body of the post.",
+        "likes": 0,
+        "dislikes": 0,
+        "comments": [
+            {
+                "author": "comment author",
+                "body": "comment body",
+                "date_posted": "00-00-0000"
+            }
+        ]
+    },
+    {
+        "title": "post title",
+        "author": "post author",
+        "date_posted": "00-00-0000",
+        "body": "This is the body of the post.",
+        "likes": 0,
+        "dislikes": 0,
+        "comments": [
+            {
+                "author": "comment author",
+                "body": "comment body",
+                "date_posted": "00-00-0000"
+            }
+        ]
+    }
+]
